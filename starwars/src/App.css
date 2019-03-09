@@ -1,8 +1,19 @@
 .App {
+  font-family: "Press Start 2P", cursive;
   text-align: center;
 }
 .Header {
+  font-size: 80px;
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
+}
+
+.subHeader {
+  width: 1000px;
+  margin: 10px auto;
+  box-shadow: 6px 7px 18px -5px rgba(0, 0, 0, 0.75);
+  background: rgba(246, 246, 246, 0.5);
+  text-shadow: 1px 1px 5px #fff;
+  padding-top: 20px;
 }
 /* write your parent styles in here for your App.js */
